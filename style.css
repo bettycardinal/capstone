@@ -1,16 +1,25 @@
+
 body {
+
     /* background-color: rgb red; */
 /* type comment here */
-background-color: rgb(129, 126, 126);
-font-family:
- 'Segoe UI',
-Geneva,
- "oswald"
-  "sans-serif";
-
+    background-color: rgb(113, 116, 117);
+   font-family: "Roboto Slab", serif;  
 }
 
 li {
-color:rgb(255, 255, 255);
+    color:rgb(5, 4, 4);
 
 }
+/* comments in css -shortcut CTRL + / or cmd + / */ 
+body {
+    color: black
+}
+
+p { 
+    color: rgb(5,4.4) ;
+
+}
+
+/*when you use selector this is morespecific it will override inheriated styles. */
+
