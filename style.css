@@ -1,9 +1,11 @@
-
+h1 {
+    margin-top: 10px;
+}
 
 *{
  font-family: "roboto slab"
 }
-
+ 
 header {
 background-color:rgba(241, 241, 233, 0.367)
 }
@@ -19,7 +21,7 @@ body {
   font-family: "oblique";
   font-size: 16px;
    text-align: center;
-  margin: 40px;
+ 
 
 }
 
@@ -48,13 +50,16 @@ h1 {
 }
 
 h2 {
-  font-size: 30px;
+  font-size: 20px;
   font-weight:bold;
   border-bottom: 1px solid black;
   font-style: normal;
   color: rgb(164, 31, 31);
   text-align: left;
+  line-height:100%;
  }
+
+
  e { 
     font-style:normal
 }
